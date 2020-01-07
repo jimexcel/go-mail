@@ -1,4 +1,2 @@
 github.com/paulrosania/go-charset v0.0.0-20190326053356-55c9d7a5834c h1:P6XGcuPTigoHf4TSu+3D/7QOQ1MbL6alNwrGhcW7sKw=
 github.com/paulrosania/go-charset v0.0.0-20190326053356-55c9d7a5834c/go.mod h1:YnNlZP7l4MhyGQ4CBRwv6ohZTPrUJJZtEv4ZgADkbs4=
-github.com/paulrosania/go-mail v0.0.0-20151101005926-5e96d116f4cf h1:fnZsIrrckFHdFO+aBWdF6vR5kqmM5Ztzr+WzI7U8Ylw=
-github.com/paulrosania/go-mail v0.0.0-20151101005926-5e96d116f4cf/go.mod h1:UjYP9pdN+i/H3zMLJ5MZp3xTQXLutzC2C3pQBZ5iipU=

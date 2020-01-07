@@ -8,7 +8,7 @@ import (
 
 	"io/ioutil"
 
-	"github.com/paulrosania/go-mail"
+	"github.com/jimexcel/go-mail"
 )
 
 func loadFixture(t *testing.T, name string) *mail.Message {

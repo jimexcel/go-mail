@@ -1,5 +1,12 @@
 # go-mail
 
+## News
+
+1. add go mod 
+just import "github.com/jimexcel/go-mail"
+
+# fork from github.com/paulrosania/go-mail
+
 **Important note: go-mail is EXPERIMENTAL.** It parses many messages correctly, but may return incorrect results or even crash with certain inputs. Many code paths lack test coverage. The API surface may change. You’ve been warned! :)
 
 [![Build Status](https://travis-ci.org/paulrosania/go-mail.svg?branch=master)](https://travis-ci.org/paulrosania/go-mail)
