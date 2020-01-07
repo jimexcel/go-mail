@@ -1,4 +1,4 @@
-module github.com/jimexcel/go-mail
+module github.com/jimexcel/mail
 
 go 1.13
 
